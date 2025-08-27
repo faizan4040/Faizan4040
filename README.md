@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Faizan saifi</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif](https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan4040&label=Profile%20views&color=0e75b6&style=flat" alt="faizan4040" /> </p>
 
