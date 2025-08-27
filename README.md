@@ -2,14 +2,7 @@
 <h1 align="center">Hi 👋, I'm Faizan saifi</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from India</h3>
 
-<p align="right">
-  <img 
-    src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif" 
-    alt="Coding" 
-    width="400" 
-    style="border-radius:15px;" 
-  />
-</p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
 
 
 
