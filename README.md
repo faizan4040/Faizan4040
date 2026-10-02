@@ -1,40 +1,64 @@
-![logo](https://github.com/faizan4040/Faizan4040/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Faizan saifi</h1>
-<h3 align="center">A passionate Full Stack MERN Developer from India</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
+<!-- 🎬 HERO — video intro + name -->
+<img src="./hero.svg?v=1" alt="Hi, I'm Megha Mittal — Frontend Developer" width="100%"/>
 
+<br/><br/>
 
+<!-- 👩‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
+<img src="./about-life.svg?v=1" alt="What I build, and life beyond the code" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan4040&label=Profile%20views&color=0e75b6&style=flat" alt="faizan4040" /> </p>
+<br/><br/>
 
-- 🌱 I’m currently Internship in Grras Solution **MERN Stack Developer**
+<!-- ⚛️ TECH STACK -->
+<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
 
-- 💬 Ask me about **react, node, MongoDB**
+<br/><br/>
 
-- 📫 How to reach me **Faizansaifi571@gmail.com**
+<!-- 🪪 DEVELOPER ID + DASHBOARD -->
+<img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
 
-- ⚡ Fun fact **I am serious in my life 😎**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/faizan-saifi30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-saifi30" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingwithcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithcode" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/dashboard" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/faizansaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faizansaifi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/faizansaifi571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faizansaifi571" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 🎌 Featured builds
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan4040&show_icons=true&locale=en&layout=compact" alt="faizan4040" /></p>
+| Project | What it is | Stack | Stars |
+|:---|:---|:---|:---:|
+| [**Naruto — Sage Mode**](https://github.com/Meghamittal0920/Naruto-SageMode) | Awwwards-style scroll experience with a thunder-crack transformation | `HTML` `CSS` `JS` `GSAP` | ⭐ 25 |
+| [**Zoro — King of Hell**](https://github.com/Meghamittal0920/Zoro-King-of-hell) | Cinematic character landing page | `HTML` `CSS` `JS` | ⭐ 9 |
+| [**Demon Slayer — Yoriichi & Kokushibo**](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | Split-screen duel storytelling | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**JJK — Sukuna**](https://github.com/Meghamittal0920/JJK-Sakuna) | Motion-heavy fan experience | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**One Piece 3D Website**](https://github.com/Meghamittal0920/One-Piece-3D-Website) | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
+| [**Impact**](https://github.com/Meghamittal0920/Imapact) | Responsive landing build | `HTML` `CSS` | ⭐ 2 |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan4040&show_icons=true&locale=en" alt="faizan4040" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan4040&" alt="faizan4040" /></p>
+<br/>
 
+## 🌃 My contribution city
 
+*Every commit builds another tower — rebuilt automatically every day.*
 
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
 
+<br/><br/>
 
+<!-- 💌 LET'S CONNECT -->
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+
+<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0d0e16" alt="Instagram"/></a>
+<a href="https://www.threads.net/@meghamittal92000"><img src="https://img.shields.io/badge/Threads-34d399?style=for-the-badge&logo=threads&logoColor=0d0e16" alt="Threads"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+**Always learning, always building.** 💜
+
+</div>
