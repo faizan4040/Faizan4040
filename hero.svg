@@ -21,6 +21,16 @@
 <clipPath id="nc"><rect x="50" y="170" width="620" height="100"><animate attributeName="y" values="262;262;170" keyTimes="0;.5263;1" dur="1.9s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1"/></rect></clipPath></defs>
 <g clip-path="url(#card)"><rect width="1280" height="540" fill="#0d0e16"/><rect width="1280" height="540" fill="url(#dots)"/>
 <g filter="url(#bl)" opacity=".55"><circle class="b1" cx="170" cy="120" r="150" fill="#22d3ee" fill-opacity=".22"/><circle class="b2" cx="470" cy="470" r="170" fill="#a78bfa" fill-opacity=".22"/><circle class="b1" cx="1150" cy="80" r="130" fill="#f472b6" fill-opacity=".14"/></g>
+    <!-- Video GIF -->
+<image
+  href="/video.gif"
+  x="820"
+  y="90"
+  width="380"
+  height="340"
+  preserveAspectRatio="xMidYMid meet"
+  opacity="0.95"
+/>
 <g opacity=".9"><circle cx="960" cy="210" r="78" fill="url(#g2)" fill-opacity=".35"/><path d="M750 540C750 400 850 330 960 330S1170 400 1170 540Z" fill="url(#g2)" fill-opacity=".25"/>
     <g><animateTransform attributeName="transform" type="rotate" values="-8 1120 330;18 1120 330;-8 1120 330" dur="1.6s" repeatCount="indefinite"/><rect x="1105" y="250" width="26" height="80" rx="13" fill="#22d3ee" fill-opacity=".5"/></g></g><path class="corner" d="M760 74V40H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.3s"/><path class="corner" d="M1236 74V40H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.38s"/><path class="corner" d="M760 466V500H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.45999999999999996s"/><path class="corner" d="M1236 466V500H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.54s"/>
 <g class="fi" style="animation-delay:.6s"><circle cx="782" cy="483" r="5" fill="#ef4444"><animate attributeName="opacity" values="1;.15;1" dur="1.2s" repeatCount="indefinite"/></circle><text class="mono" x="794" y="488" font-size="13" fill="#eceef6" letter-spacing="2" font-weight="700">REC</text><text class="mono" x="1222" y="488" font-size="12" fill="#8d93ab" text-anchor="end" letter-spacing="1.5">HELLO.MP4 · FAIZAN4040</text></g>
