@@ -111,7 +111,9 @@
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan4040&bg_color=0d0e16&color=a78bfa&line=22d3ee&point=f472b6&area=true&area_color=22d3ee&hide_border=true&radius=14" alt="Activity graph" width="100%"/>
+*Eating up every contribution square.*
+
+<img src="./snake/snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 <br/>
 
@@ -125,11 +127,11 @@
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan4040&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&title=Stars,Commits,Followers,Repositories,Experience,Languages,Issues" alt="Trophies"/>
+<img src="./trophies.svg?v=1" alt="Milestones" width="100%"/>
 
 <br/><br/>
 
-## 🤝 Let's connect
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/Faizan4040"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
